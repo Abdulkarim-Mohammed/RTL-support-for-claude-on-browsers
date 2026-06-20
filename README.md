@@ -84,6 +84,8 @@ Inject custom CSS via the **Stylus** browser extension to automatically correct 
 - ✅ Claude's internal thinking sections
 - ✅ Code blocks remain LTR unaffected
 
+![Demo](./claude-rtl-fix-1920p.gif)
+
 > **Note:** This fix applies to Claude.ai in the browser only. If class names change after a site update, inspect via DevTools (F12) and update accordingly.
 
 ---
